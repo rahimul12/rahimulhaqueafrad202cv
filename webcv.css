@@ -1,0 +1,95 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  #CV {
+    float: right;
+    height: 50%;
+    width: 100% auto;
+    min-width: fit-content;
+    margin: 3%;
+    padding: 20px;
+    color: #0a0c0c;
+    background-color: #397e596d;
+  }
+  .picture {
+    padding-left: 25px;
+    width: 200px auto;
+    height: 200px;
+    border-radius: 50%;
+  }
+  
+  #Second {
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    margin-top: 10px;
+    background-color: #dce1dc;
+  }
+  .information {
+    margin-right: 15%;
+    margin-top: 2%;
+  }
+  
+  #contact {
+    color: #3f4e4f;
+    font-size: medium;
+    font-weight: 500;
+  }
+  .Name {
+    color: #404f50;
+  }
+  .Profession,
+  .Sub,
+  .Institution {
+    color: #576a6b;
+  }
+  
+  #Education {
+  }
+  #edu,
+  #work,
+  #lang,
+  #sk {
+    color: #3f4e4f;
+  }
+  #otb,
+  #codeb {
+    color: #3f4e4f;
+  }
+  
+  #right {
+    float: right;
+    margin-top: 100px;
+  }
+  #Education,
+  #Experience,
+  #Skill {
+    margin-left: 30px;
+  }
+  
+  #Education table td,
+  #Experience table td {
+    padding: 10px;
+  }
+  
+  #Language,
+  #Code,
+  #Others {
+    margin-left: 50px;
+  }
+  #Language li,
+  #Skill li {
+    padding: 4px;
+  }
+  
+  #CV h3 {
+    border: 1px solid #d8e7dd;
+    padding: 5px;
+    border-radius: 5px;
+  }
+  
+  #Starting {
+    padding-left: 40px;
+  }
